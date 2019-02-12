@@ -7,4 +7,4 @@ this is an example site for the Intro to Front-End Web Development Course at the
 
 <!-- contact  -->
 
-email: jvr572@gamil.com
+email: jvr572@gmail.com
